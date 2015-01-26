@@ -1,2 +1,0 @@
-usage: python features.py && python clustering.py && python classify.py && python svc.py && python test.py 
-LICENSE: MIT License
